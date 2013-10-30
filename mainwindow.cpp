@@ -20,3 +20,13 @@ void MainWindow::on_pushButton_clicked()
     std::cout << "pushbutton " << std::endl;
 }
 
+void MainWindow::on_hwpush_clicked()
+{
+    std::cout<< "success" << std::endl;
+}
+
+void MainWindow::on_hwpush2_clicked()
+{
+    std::cout<< "successful" << std::endl;
+}
+

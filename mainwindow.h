@@ -37,6 +37,8 @@ public:
 
 private slots:
     void on_pushButton_clicked();
+    void on_hwpush_clicked();
+    void on_hwpush2_clicked();
 
 private:
     Ui::MainWindow *ui;
